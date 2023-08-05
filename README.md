@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="1010" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" >
 <h1 align="center">Hi 👋, I'm Muneer Ahmad Wani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="1010" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" >
+<img align="right" alt="coding" width=400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneerwani&label=Profile%20views&color=0e75b6&style=flat" alt="muneerwani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneerwani" alt="muneerwani" /></a> </p>
